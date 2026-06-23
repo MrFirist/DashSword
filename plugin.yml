@@ -1,6 +1,0 @@
-name: DashSword
-version: 1.0
-main: me.firist.dashsword.Main
-api-version: 1.20
-author: firist
-description: Дэш меч с эффектами, кулдауном и иммунитетом
