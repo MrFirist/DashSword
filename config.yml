@@ -1,0 +1,19 @@
+dash:
+  distance: 25
+  speed: 5.0
+  cooldown: 40
+  particles: true
+  sound: true
+
+craft:
+  shape:
+    - "ADA"
+    - "BSC"
+    - "ADA"
+
+  ingredients:
+    A: END_CRYSTAL
+    S: NETHERITE_SWORD
+    B: WIND_CHARGE
+    C: ENDER_PEARL
+    D: FIREWORK_ROCKET
